@@ -1,8 +1,6 @@
-# Getting Started
+Economica will run best with some initial server setup. 
 
-Economica is highly configurable, which does come with the necessity of some configuration.
-
-There are a couple things to set up and take note of in order to best use Economica.
+You will need `ADMINISTRATOR` or `GUILD_OWNER` permissions in order to setup the bot.
 
 ## Authority
 
@@ -34,6 +32,8 @@ You can set up transaction log with `transaction-log set <channel>`.
 
 ## Document Ids
 
-Economica's database used an Id based system. For example: `620b1439ed810036441e815f`.
+Economica's database uses an Id based system. For example, `62106dbcae444b732526f215` represents the transaction depicted below.
+
+![image](../assets/7K58hzL.png)
 
 Ids are used in various commands for specifying transactions, infractions, loans, and much more.
