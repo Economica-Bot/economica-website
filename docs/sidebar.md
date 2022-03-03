@@ -1,3 +1,3 @@
-- [Home](./home.md)
-- [Getting Started](./guide.md)
-- [Commands](./commands.md)
+- [Home](/home.md)
+- [Getting Started](/guide.md)
+- [Commands](/commands.md)
